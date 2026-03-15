@@ -2,7 +2,7 @@
 
 ## Leveraging Tableau for In-Depth Analysis of Telecom Customer Churn Dynamics
 
-## Interactive Dashboard
+## 🔗 Interactive Dashboard
 You can explore the interactive version of this analysis here:
 [Live Tableau Dashboard](https://public.tableau.com/views/TelecomCustomerAnalysisCaseStudy/Report?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
