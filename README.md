@@ -2,6 +2,10 @@
 
 ## Leveraging Tableau for In-Depth Analysis of Telecom Customer Churn Dynamics
 
+## 🔗 Interactive Dashboard
+You can explore the interactive version of this analysis here:
+[Live Tableau Dashboard](https://public.tableau.com/views/TelecomCustomerAnalysisCaseStudy/Report?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Background:
 #### A leading telecommunications company is experiencing a high rate of customer churn, which is negatively impacting its revenue and market share. The company offers various services including mobile, landline, and broadband connections, as well as additional services such as data plans, roaming packages, and value-added services. The company wants to understand the underlying reasons for customer churn and develop strategies to reduce it.
 
